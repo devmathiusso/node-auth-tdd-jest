@@ -12,6 +12,12 @@ Clone the project on your computer
 git clone https://github.com/devmathiusso/node-auth-tdd-jest.git
 ```
 
+Move to the project directory
+
+```
+cd node-auth-tdd-jest
+```
+
 Install the dependencies
 
 `yarn` or `npm install`
