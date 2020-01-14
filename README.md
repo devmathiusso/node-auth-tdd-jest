@@ -2,8 +2,6 @@
 
 A simple authentication built with Node.js, Express, and Jest to explore the TDD test method.
 
-> The Jest coverage part is with a bug that the file **\_\_tests\_\_/coverage/lcov-report/index.html** is not showing the test coverage percentage. I'm following the [issue](https://github.com/facebook/jest/issues/9388) and I'll update the Jest version after the problem be solved
-
 ## Installation
 
 Clone the project on your computer
